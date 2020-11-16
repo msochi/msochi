@@ -1,7 +1,7 @@
-# HOLAAAAA
+# HOLA
 ## SOY
 ### Marcelo
-### Hi there 👋
+### 👋 Quienes me conocen me dicen Chelo o Sochi. Tengo 42 años y llevo 20 años trabajando con foco en Marketing. Cuento con una amplia experiencia que incluye Administración General, Brand Building, Brand Strategy & Brand Positioning, Estrategia Portfolio, Offline & Online Marketing, Trade Marketing, Planificación y Análisis, Innovación y Marketing Interactivo. Apasionado por las marcas y los negocios.
 
 <!--
 **msochi/msochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
